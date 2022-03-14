@@ -1,0 +1,422 @@
+intervention,phase,ct_id,pmid
+intervention1,phase 2,nct01151449,26059540
+intervention1,phase 2,nct01120275,25250858
+intervention2,phase 2,nct00968864,29296761
+intervention3,phase 2,nct01769508,28765502
+intervention3,phase 1,nct00963547,24252402
+intervention4,phase 3,nct00078897,30899530
+intervention4,phase 3,nct00078897,23060037
+intervention4,phase 3,nct00078897,18378608
+intervention5,phase 1/phase 2,nct01717898,28314838
+intervention5,phase 1/phase 2,nct01453595,27286790
+intervention5,phase 2,nct01628913,29242283
+intervention6,phase 1/phase 2,nct01717898,28314838
+intervention7,phase 2,nct01310855,27232884
+intervention8,phase 2,nct01310855,27232884
+intervention8,phase 2,nct00467077,21431345
+intervention8,phase 3,nct00088907,23460714
+intervention9,phase 2,nct00509496,22555974
+intervention9,phase 2,nct00670748,25432172
+intervention10,phase 2,nct00585221,22198309
+intervention11,phase 2,nct01391130,27154357
+intervention12,phase 2,nct00866333,27151994
+intervention13,phase 3,nct01012297,25713428
+intervention14,phase 2,nct01732549,29059273
+intervention15,phase 3,nct01773187,28336242
+intervention15,phase 3,nct01773187,33275766
+intervention16,phase 2,nct01118351,31231785
+intervention16,phase 3,nct00699374,32449002
+intervention16,phase 3,nct00699374,32417993
+intervention16,phase 3,nct00699374,32380454
+intervention16,phase 3,nct00699374,20203173
+intervention16,phase 3,nct00699374,29455421
+intervention16,phase 3,nct00699374,24081937
+intervention16,phase 3,nct00428597,33411058
+intervention16,phase 3,nct00428597,29161241
+intervention16,phase 3,nct00428597,27924459
+intervention16,phase 3,nct00428597,27836885
+intervention16,phase 3,nct00428597,21306237
+intervention17,phase 1,nct02082977,31471312
+intervention18,phase 1,nct02047500,25679067
+intervention19,phase 2,nct00396383,20067838
+intervention20,phase 2,nct01050946,31217161
+intervention21,phase 2,nct01137071,33664128
+intervention22,phase 2,nct00760929,22025157
+intervention22,phase 2,nct00642941,22682017
+intervention22,phase 2,nct00642941,22025149
+intervention23,phase 1,nct02444793,31801624
+intervention24,phase 1,nct02444793,31801624
+intervention25,phase 2,nct00882206,24891274
+intervention25,phase 3,nct00005047,25413313
+intervention26,phase 2,nct00766142,31331370
+intervention27,phase 2,nct00526591,31037562
+intervention27,phase 2,nct00276744,21135251
+intervention28,phase 1/phase 2,nct02261805,29594044
+intervention28,phase 1/phase 2,nct02012192,31552170
+intervention28,phase 1,nct02192541,29853657
+intervention29,phase 1,nct02540291,32554609
+intervention30,phase 2,nct01220128,28176175
+intervention31,phase 1/phase 2,nct02431260,31527168
+intervention32,phase 2,nct00126568,23113752
+intervention13,phase 3,nct01041781,30702971
+intervention33,phase 3,nct01041781,30702971
+intervention34,phase 2,nct00098371,25596730
+intervention34,phase 1/phase 2,nct00112723,24241210
+intervention35,phase 2,nct01814046,28395880
+intervention36,phase 3,nct00354432,24081940
+intervention37,phase 3,nct00354432,24081940
+intervention38,phase 2,nct00899353,20307284
+intervention39,phase 1,nct02034123,31260835
+intervention40,phase 2,nct02285855,31990759
+intervention41,phase 2,nct00882206,24891274
+intervention42,phase 2,nct00882206,24891274
+intervention43,phase 2,nct00882206,24891274
+intervention43,phase 2,nct00363883,33409898
+intervention43,phase 2,nct00673153,22133771
+intervention43,phase 2/phase 3,nct00473889,26521238
+intervention44,phase 2,nct01721603,27223498
+intervention45,phase 2,nct00208975,26297176
+intervention46,phase 1,nct02608229,28939558
+intervention47,phase 3,nct02952586,33794205
+intervention47,phase 1,nct03502681,33741296
+intervention48,phase 1,nct00486265,21494838
+intervention49,phase 2/phase 3,nct01907100,31103412
+intervention50,phase 1/phase 2,nct02380677,33594602
+intervention51,phase 2,nct00985946,27261467
+intervention52,phase 2,nct01183884,23633099
+intervention53,phase 2,nct00303719,21403127
+intervention53,phase 2,nct00303719,19179301
+intervention53,phase 2,nct00303719,22430088
+intervention54,phase 2,nct00303719,21403127
+intervention54,phase 2,nct00303719,19179301
+intervention54,phase 2,nct00303719,22430088
+intervention54,phase 3,nct00089141,19270260
+intervention55,phase 2,nct00303719,21403127
+intervention55,phase 2,nct00303719,19179301
+intervention55,phase 2,nct00303719,22430088
+intervention56,phase 1,nct01185548,29119333
+intervention57,phase 2,nct00248534,22656234
+intervention58,phase 2,nct01032850,28687627
+intervention59,phase 2,nct01029925,24442098
+intervention60,phase 2,nct01220128,28176175
+intervention61,phase 2,nct01220128,28176175
+intervention62,phase 2,nct02128230,29567784
+intervention63,phase 2,nct02128230,29567784
+intervention64,phase 2,nct02128230,29567784
+intervention65,phase 2,nct02128230,29567784
+intervention66,phase 2,nct02128230,29567784
+intervention67,phase 2,nct02128230,29567784
+intervention68,phase 1/phase 2,nct02289222,28461396
+intervention68,phase 3,nct02576977,33086159
+intervention68,phase 3,nct02576977,31327687
+intervention68,phase 3,nct02576977,27195659
+intervention69,phase 2,nct01151215,27654971
+intervention70,phase 1/phase 2,nct01163084,20818327
+intervention71,phase 1,nct02014116,31645440
+intervention72,phase 2,nct01032291,24244687
+intervention72,phase 2,nct01032291,24244261
+intervention73,phase 2,nct00849875,29177094
+intervention74,phase 2,nct00335140,29416652
+intervention75,phase 2,nct00072189,20967484
+intervention76,phase 2,nct01727336,30951193
+intervention77,phase 2,nct01528345,28183331
+intervention78,phase 2,nct01685606,23782682
+intervention79,phase 1,nct01394003,24440085
+intervention79,phase 1,nct01115803,24456794
+intervention80,phase 2,nct01852292,28131786
+intervention80,phase 1/phase 2,nct01870726,31776899
+intervention81,phase 3,nct00486759,30770362
+intervention81,phase 3,nct00486759,24895339
+intervention82,phase 2,nct01106950,24719405
+intervention83,phase 2,nct01106950,24719405
+intervention84,phase 2,nct01106950,24719405
+intervention85,phase 2,nct01118351,31231785
+intervention85,phase 1/phase 2,nct01582009,31654285
+intervention86,phase 2/phase 3,nct01603420,24423462
+intervention87,phase 2/phase 3,nct01603420,24423462
+intervention88,phase 2,nct02732938,31297636
+intervention89,phase 3,nct00500240,22658895
+intervention90,phase 3,nct00500240,22658895
+intervention91,phase 3,nct00272987,23697602
+intervention92,phase 1/phase 2,nct00906243,21150709
+intervention93,phase 3,nct01650805,27083332
+intervention93,phase 2,nct01570868,30885996
+intervention93,phase 2,nct01570868,28835440
+intervention93,phase 2,nct01570868,26436130
+intervention94,phase 1,nct00907517,23092873
+intervention95,phase 1,nct02553499,32809217
+intervention96,phase 1,nct01378377,28194539
+intervention43,phase 1/phase 2,nct01483690,31969338
+intervention43,phase 1/phase 2,nct01483690,23233571
+intervention43,phase 2,nct02395627,32681091
+intervention97,phase 2,nct00718809,26009269
+intervention98,phase 3,nct00883116,25925990
+intervention99,phase 1/phase 2,nct01526928,29216356
+intervention99,phase 1/phase 2,nct01526928,25923550
+intervention99,phase 1/phase 2,nct01526928,30279111
+intervention99,phase 1/phase 2,nct01526928,27468937
+intervention99,phase 2,nct02147990,30279111
+intervention100,phase 1,nct01185548,29119333
+intervention101,phase 2,nct01876043,26041763
+intervention102,phase 3,nct02013167,32289160
+intervention102,phase 3,nct02013167,30947585
+intervention102,phase 3,nct02013167,29739753
+intervention102,phase 3,nct02013167,29954814
+intervention102,phase 3,nct02013167,28249141
+intervention102,phase 3,nct02013167,34185953
+intervention102,phase 3,nct02013167,34161631
+intervention103,phase 2,nct03397394,34030643
+intervention104,phase 3,nct00796445,29908991
+intervention105,phase 2,nct02402036,28712102
+intervention106,phase 2,nct01934894,29678476
+intervention106,phase 1/phase 2,nct01001221,26020806
+intervention54,phase 2,nct00946023,26183076
+intervention107,phase 2,nct01796470,26968534
+intervention108,phase 3,nct00574275,29856121
+intervention108,phase 3,nct00574275,33613759
+intervention108,phase 3,nct00574275,29366960
+intervention108,phase 3,nct00574275,22264850
+intervention109,phase 2,nct01227434,30151703
+intervention110,phase 2,nct01227434,30151703
+intervention111,phase 3,nct01416181,29545067
+intervention112,phase 2,nct00454324,25616430
+intervention113,phase 1/phase 2,nct00923273,31367538
+intervention114,phase 1/phase 2,nct00923273,31367538
+intervention115,phase 1/phase 2,nct00923273,31367538
+intervention116,phase 2/phase 3,nct00418574,24952307
+intervention116,phase 2/phase 3,nct00418574,28919454
+intervention116,phase 2/phase 3,nct00418574,23478059
+intervention117,phase 1/phase 2,nct01784861,33738668
+intervention118,phase 3,nct01209689,23765873
+intervention119,phase 2,nct00809185,24332215
+intervention120,phase 3,nct01650805,27083332
+intervention121,phase 2,nct02202785,28527133
+intervention122,phase 2,nct00849875,29177094
+intervention123,phase 2,nct01721603,27223498
+intervention124,phase 3,nct00262821,24395863
+intervention125,phase 1,nct01347866,29067643
+intervention125,phase 2,nct01420081,27103175
+intervention126,phase 1,nct01891669,28070718
+intervention127,phase 1,nct01519323,29350463
+intervention127,phase 1,nct01519323,31127481
+intervention127,phase 2,nct01474551,22431777
+intervention128,phase 1/phase 2,nct00925132,25062770
+intervention129,phase 1,nct02764151,32436060
+intervention129,phase 1,nct02764151,30232146
+intervention130,phase 2,nct02535364,29789639
+intervention131,phase 1,nct01876251,27906684
+intervention132,phase 3,nct00216060,24126237
+intervention132,phase 3,nct00216060,33270906
+intervention133,phase 2,nct00993928,32307658
+intervention134,phase 3,nct01244191,26169611
+intervention134,phase 3,nct01244191,22440336
+intervention135,phase 2,nct02034916,30563931
+intervention135,phase 2,nct02034916,30359909
+intervention136,phase 1,nct01347866,29067643
+intervention137,phase 1,nct01679405,30634942
+intervention138,phase 1/phase 2,nct01582009,31654285
+intervention139,phase 1/phase 2,nct01582009,31654285
+intervention140,phase 1/phase 2,nct01582009,31654285
+intervention141,phase 1/phase 2,nct01582009,31654285
+intervention142,phase 3,nct00673049,25395283
+intervention143,phase 3,nct00626548,22583636
+intervention143,phase 2,nct01119118,25128349
+intervention144,phase 1,nct01378377,28194539
+intervention145,phase 2,nct01765582,32816630
+intervention145,phase 2,nct01765582,30552157
+intervention146,phase 1,nct02129205,30887250
+intervention147,phase 1/phase 2,nct00923247,30297385
+intervention147,phase 1/phase 2,nct00862836,24005613
+intervention148,phase 3,nct01599754,30346481
+intervention148,phase 1/phase 2,nct01806064,30190302
+intervention149,phase 2,nct00393380,22766223
+intervention150,phase 3,nct00914628,26039212
+intervention151,phase 3,nct00914628,26039212
+intervention152,phase 1/phase 2,nct01870726,31776899
+intervention153,phase 1/phase 2,nct00400764,26687959
+intervention154,phase 1,nct01838200,29552014
+intervention155,phase 1,nct01838200,29552014
+intervention156,phase 1,nct00963547,24252402
+intervention157,phase 2,nct00274651,25404094
+intervention158,phase 1,nct02078752,30680712
+intervention159,phase 1,nct02664363,29872570
+intervention160,phase 2,nct00250835,29158365
+intervention161,phase 2,nct02599649,30001986
+intervention162,phase 2,nct00670748,25432172
+intervention163,phase 2,nct00670748,25432172
+intervention9,phase 2,nct00914940,26053664
+intervention164,phase 2,nct02654639,28712102
+intervention165,phase 2,nct01986829,29487221
+intervention166,phase 2,nct01986829,29487221
+intervention167,phase 2,nct01986829,29487221
+intervention168,phase 2,nct01986829,29487221
+intervention169,phase 1/phase 2,nct02709889,32372416
+intervention169,phase 3,nct03033511,29290251
+intervention170,phase 3,nct02768558,27923550
+intervention171,phase 2,nct01511081,33640423
+intervention172,phase 2,nct01511081,33640423
+intervention173,phase 2,nct00914940,26053664
+intervention174,phase 3,nct00480025,27132212
+intervention174,phase 3,nct00480025,30842175
+intervention175,phase 2,nct03223662,29933761
+intervention176,phase 3,nct01041781,30702971
+intervention176,phase 1,nct01705106,28654574
+intervention177,phase 1,nct02192541,29853657
+intervention178,phase 2,nct00402896,24913066
+intervention179,phase 2,nct02633800,31648099
+intervention179,phase 3,nct02134015,26137564
+intervention180,phase 1/phase 2,nct03480152,33016924
+intervention181,phase 3,nct02588261,31070709
+intervention182,phase 2/phase 3,nct02354144,34140405
+intervention182,phase 2/phase 3,nct02354144,32205376
+intervention183,phase 2/phase 3,nct02354144,34140405
+intervention183,phase 2/phase 3,nct02354144,32205376
+intervention184,phase 3,nct02200042,26503201
+intervention185,phase 2,nct00555477,23613476
+intervention185,phase 2,nct01151215,27654971
+intervention186,phase 1,nct02608229,28939558
+intervention187,phase 2,nct02657369,27240885
+intervention188,phase 3,nct01067144,30821824
+intervention188,phase 3,nct01067144,29238824
+intervention189,phase 2,nct00617890,27362300
+intervention189,phase 2,nct00617890,22682017
+intervention190,phase 3,nct00876915,28139259
+intervention190,phase 3,nct00876915,33337539
+intervention191,phase 1/phase 2,nct00648739,31443741
+intervention192,phase 2,nct01010568,24925211
+intervention193,phase 1,nct00979576,26560486
+intervention194,phase 1,nct00979576,26560486
+intervention195,phase 1,nct00979576,26560486
+intervention196,phase 1,nct00979576,26560486
+intervention197,phase 1,nct00346632,19029442
+intervention198,phase 3,nct01633060,29223745
+intervention199,phase 2,nct03648879,34012620
+intervention199,phase 2,nct03648879,31183189
+intervention200,phase 1,nct01738594,32632956
+intervention201,phase 1,nct01738594,32632956
+intervention202,phase 3,nct01402908,26212068
+intervention203,phase 2,nct01842594,26375670
+intervention204,phase 2,nct01702558,32584367
+intervention205,phase 3,nct00596830,24888810
+intervention206,phase 1,nct01705106,28654574
+intervention207,phase 1/phase 2,nct01897714,32213344
+intervention208,phase 2,nct01861054,31924241
+intervention209,phase 1,nct02346370,33982408
+intervention210,phase 2,nct00515528,27330808
+intervention211,phase 1,nct01284335,25260842
+intervention212,phase 1/phase 2,nct02010567,30858085
+intervention212,phase 1/phase 2,nct02010567,27784746
+intervention213,phase 2/phase 3,nct01641939,30706247
+intervention213,phase 2/phase 3,nct01641939,28343975
+intervention213,phase 2/phase 3,nct01641939,31721447
+intervention213,phase 2/phase 3,nct01641939,29043411
+intervention214,phase 2/phase 3,nct01641939,30706247
+intervention214,phase 2/phase 3,nct01641939,28343975
+intervention214,phase 2/phase 3,nct01641939,31721447
+intervention214,phase 2/phase 3,nct01641939,29043411
+intervention215,phase 1/phase 2,nct01236573,22056381
+intervention216,phase 2,nct00248534,22656234
+intervention217,phase 3,nct02952586,33794205
+intervention218,phase 2,nct03071276,28630120
+intervention218,phase 2,nct02215161,29487219
+intervention219,phase 1,nct03306420,32843490
+intervention220,phase 2,nct01721603,27223498
+intervention221,phase 1,nct02588092,32521310
+intervention222,phase 2,nct01790295,30205231
+intervention223,phase 3,nct00005047,25413313
+intervention224,phase 2,nct01017601,31605793
+intervention225,phase 1/phase 2,nct00683085,26190488
+intervention226,phase 1/phase 2,nct02289222,28461396
+intervention227,phase 2,nct00437294,20814815
+intervention228,phase 3,nct01465464,28988687
+intervention229,phase 2,nct03071276,28630120
+intervention230,phase 2,nct01118351,31231785
+intervention231,phase 3,nct00748189,33054084
+intervention231,phase 3,nct00748189,25882396
+intervention231,phase 3,nct00748189,25103870
+intervention232,phase 3,nct00748189,33054084
+intervention232,phase 3,nct00748189,25882396
+intervention232,phase 3,nct00748189,25103870
+intervention233,phase 2,nct01316263,28426120
+intervention234,phase 1,nct02553499,32809217
+intervention235,phase 2,nct01479465,28246207
+intervention236,phase 2,nct00929162,23234805
+intervention237,phase 2,nct00918385,25635138
+intervention238,phase 2,nct01984892,24801836
+intervention239,phase 2,nct03042312,34016732
+intervention239,phase 2,nct03042312,31541035
+intervention240,phase 1,nct02948426,30012146
+intervention241,phase 2,nct00955305,28950351
+intervention242,phase 2,nct01799889,25696919
+intervention242,phase 2,nct01799889,30633573
+intervention243,phase 2,nct01799889,25696919
+intervention243,phase 2,nct01799889,30633573
+intervention244,phase 2,nct00167180,17579184
+intervention245,phase 2,nct00167180,17579184
+intervention246,phase 2,nct00515528,27330808
+intervention247,phase 3,nct00573391,22674807
+intervention248,phase 3,nct00573391,22674807
+intervention249,phase 3,nct01015443,21982342
+intervention250,phase 3,nct01015443,21982342
+intervention251,phase 3,nct01015443,21982342
+intervention252,phase 2,nct00914940,26053664
+intervention253,phase 2,nct00914940,26053664
+intervention254,phase 2,nct00914940,26053664
+intervention255,phase 2,nct00914940,26053664
+intervention256,phase 2,nct01100242,25777345
+intervention16,phase 2,nct00859339,23228446
+intervention16,phase 2,nct00912912,25085632
+intervention257,phase 2,nct00859339,23228446
+intervention55,phase 2,nct00946023,26183076
+intervention258,phase 3,nct01964378,30365202
+intervention259,phase 3,nct01964378,30365202
+intervention260,phase 1/phase 2,nct02607124,33034839
+intervention260,phase 1/phase 2,nct02607124,32354716
+intervention261,phase 2,nct03382899,33166722
+intervention261,phase 2,nct03382912,32808556
+intervention261,phase 2,nct03382912,33166722
+intervention262,phase 2,nct00946023,26183076
+intervention263,phase 2,nct01205828,26449224
+intervention264,phase 1,nct03449030,32788205
+intervention265,phase 1,nct03449030,32788205
+intervention266,phase 3,nct01522443,33258687
+intervention266,phase 3,nct01522443,31556911
+intervention266,phase 3,nct01522443,30528222
+intervention267,phase 3,nct00519090,24472814
+intervention268,phase 2,nct03223662,29933761
+intervention269,phase 1/phase 2,nct01100944,26622643
+intervention269,phase 1/phase 2,nct01100944,21502553
+intervention270,phase 2,nct01754623,26235848
+intervention271,phase 2,nct01754623,26235848
+intervention272,phase 2,nct00276744,21135251
+intervention273,phase 1,nct02954653,29296751
+intervention274,phase 1,nct00979134,28615371
+intervention274,phase 2,nct01457846,29177434
+intervention275,phase 2,nct01919229,27336726
+intervention276,early phase 1,nct01957709,32269142
+intervention277,phase 1,nct01186328,24276047
+intervention278,phase 2/phase 3,nct01446874,30291834
+intervention279,phase 2,nct02351037,26297574
+intervention280,phase 2,nct02351037,26297574
+intervention281,phase 2,nct01118351,31231785
+intervention282,phase 3,nct01687413,25057165
+intervention283,phase 1,nct02669264,32012214
+intervention284,phase 1,nct01358331,29467321
+intervention285,phase 1,nct01400451,23415641
+intervention285,phase 1,nct01400451,24577748
+intervention285,phase 1,nct01400451,24025700
+intervention286,phase 2,nct02001051,25968622
+intervention287,phase 2,nct01075412,25981130
+intervention288,phase 2/phase 3,nct01355523,25328711
+intervention289,phase 1/phase 2,nct01806064,30190302
+intervention290,phase 2,nct00573131,27890801
+intervention291,phase 2,nct00573131,27890801
+intervention292,phase 3,nct01077518,33973233
+intervention293,phase 3,nct01077518,33973233
+intervention294,phase 3,nct01077518,33973233
+intervention295,phase 2,nct01338857,24351969
+intervention296,phase 2,nct01116661,31075771
+intervention297,phase 3,nct02887521,31618297
+intervention298,phase 3,nct02887521,31618297
+intervention299,phase 1/phase 2,nct00735878,23147218
+intervention300,phase 2,nct00673153,22133771
