@@ -1,7 +1,7 @@
 
 ## Download data
 
-Each intervention (approved or terminated) is associated with a set of pmids (PubMed artciles).
+Each intervention (approved or terminated) is associated with a set of Clinical Trials identifiers (NCTid) and pmids (PubMed artciles). These associations were extracted from clinicaltrials.gov and PubMed during May-June 2021 and may not reflect the most current/accurate data available from these sources (clinicaltrials.gov and PubMed(NLM)).
 
 ### Prerequisites
 
